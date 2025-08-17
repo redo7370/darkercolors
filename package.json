@@ -3,6 +3,10 @@
   "displayName": "darkercolor",
   "description": "Dark colored theme with semantic highlighting and TextMate fallback for variables",
   "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redo7370/darkercolors.git"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
