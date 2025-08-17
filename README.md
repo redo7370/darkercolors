@@ -1,10 +1,11 @@
 # DarkerColors
 
-**Repository**: [https://github.com/redo7370/darkercolo   - "Super Dark Cyberpunk Green" 🟢
+**Repository**: [https://github.com/redo7370/darkercolors.git]
+   - "Super Dark Cyberpunk Green" 🟢
    - "Glowing Yellow" 🟡  
    - "Glowing Purple" 🟣
 
-## 💡 Suggestions & Improvements
+## Suggestions & Improvements
 
 We welcome **suggestions for improvements** and **feature requests**! 
 
@@ -18,21 +19,19 @@ To provide feedback or suggest enhancements:
 
 Your feedback helps make these themes better for everyone! 🚀
 
-## 🔮 Future Planst](https://github.com/redo7370/darkercolors.git)
+## Themes
 
 A collection of **neon dark themes** featuring three distinct color variants:
 
-- � **Super Dark Cyberpunk Green** - Matrix-inspired emerald neon with deep forest backgrounds
-- 🟡 **Glowing Yellow** - Golden cyberpunk glow with warm amber accents  
-- � **Glowing Purple** - Mystical violet neon with deep space backgrounds
+- **Glowing Green** - Matrix-inspired emerald neon with deep forest backgrounds
+- **Glowing Yellow** - Golden cyberpunk glow with warm amber accents  
+- **Glowing Purple** - Mystical violet neon with deep space backgrounds
 
-All themes feature:
-
-## 🎨 Theme Overview
+## Theme Overview
 
 This collection features deep, almost-black editor backgrounds with vibrant neon outlines and carefully crafted syntax highlighting. All three themes now have **consistent brightness levels** and **professional color balance** for optimal visual harmony across different color preferences.
 
-## ✨ Features
+## Features
 
 - **Ultra-dark backgrounds** - Color-tinted blacks with **matched brightness levels** across all themes
 - **Neon UI outlines** - Theme-specific glowing borders with **consistent intensity**
@@ -41,7 +40,7 @@ This collection features deep, almost-black editor backgrounds with vibrant neon
 - **Multi-theme system** - Three distinct neon variants with **identical darkness levels**
 - **Comprehensive semantic highlighting** - Enhanced syntax colors optimized for each theme
 
-## 🎨 Color Theory & Design
+## Color Theory & Design
 
 Each theme applies professional color theory principles with **scientifically matched brightness levels**:
 
@@ -51,7 +50,7 @@ Each theme applies professional color theory principles with **scientifically ma
 - **Semantic Color Coding**: Consistent color meanings across all syntax elements
 - **Brightness Consistency**: All themes use equivalent luminosity values for uniform visual weight
 
-## 🌈 Theme Variants
+## Theme Variants
 
 ### � Super Dark Cyberpunk Green
 - **Primary**: Emerald green (`#66ff66`) with matrix-inspired accents
@@ -59,26 +58,26 @@ Each theme applies professional color theory principles with **scientifically ma
 - **Highlights**: Complementary orange for special elements
 - **Mood**: Matrix terminal, nature-tech fusion, cyberpunk forest
 
-### 🟡 Glowing Yellow  
+### Glowing Yellow  
 - **Primary**: Balanced golden yellow (`#cccc00`) with amber tones
 - **Backgrounds**: Warm dark browns with golden undertones (`#0a0a05`, `#0d0d06`, `#111108`)
 - **Highlights**: Complementary blue for contrast elements
 - **Mood**: Energetic, cyberpunk, high-tech warmth
 
-### � Glowing Purple
+### Glowing Purple
 - **Primary**: Neon violet (`#bb66ff`) with mystical accents
 - **Backgrounds**: Deep space blacks with purple undertones (`#0a0510`, `#0d0614`, `#110817`)
 - **Highlights**: Complementary orange for special elements
 - **Mood**: Mystical, futuristic, cosmic depth
 
-## 🚀 Language Support
+## Language Support
 
 All themes are currently optimized for:
 - **Java** ☕ - Full syntax highlighting and semantic token support
 
 *More languages will be added in future updates!*
 
-## 📦 Installation
+## Installation
 
 1. Open Visual Studio Code
 2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
@@ -87,9 +86,9 @@ All themes are currently optimized for:
 5. Go to Settings (`Ctrl+,` / `Cmd+,`)
 6. Search for "Color Theme"
 7. Select your preferred variant:
-   - "Super Dark Cyberpunk Green" �
-   - "Glowing Yellow" 🟡  
-   - "Glowing Purple" �
+   - "Glowing Green"
+   - "Glowing Yellow"  
+   - "Glowing Purple"
 
 ## 🔮 Future Plans
 
