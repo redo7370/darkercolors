@@ -107,26 +107,7 @@ All themes are currently optimized for:
 
 ## 📝 Changelog
 
-### v1.1.1 - README and License Update
-- Contribution Only License
-- Error Correction in README
-
-### v1.1.0 - Brightness Balance Update
-- **Color Theory Enhancement**: Scientifically balanced brightness levels across all three themes
-- **Green Theme Conversion**: Converted purple theme to matrix-inspired green (`#66ff66` accents)
-- **Yellow Theme Optimization**: Adjusted brightness from `#ffd700` to `#cccc00` for visual harmony
-- **Background Consistency**: Matched darkness levels across all theme variants
-  - Green: `#050a05`, `#060d06`, `#081108`
-  - Yellow: `#0a0a05`, `#0d0d06`, `#111108`  
-  - Purple: `#0a0510`, `#0d0614`, `#110817`
-- **Enhanced User Experience**: Consistent visual weight and contrast ratios
-
-### v1.0.0
-- **Three complete neon themes**: Purple, Yellow, and Green variants
-- **Professional color theory**: Complementary schemes and optimal contrast ratios
-- **Full Java language support**: Comprehensive semantic highlighting
-- **Hierarchical UI system**: Graduated darkness levels for better organization
-- **Color-tinted backgrounds**: Theme-specific background tones for visual consistency
+For detailed release notes and version history, see [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
