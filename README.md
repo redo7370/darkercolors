@@ -1,6 +1,26 @@
 # DarkerColors
 
-A collection of **neon dark cyberpunk themes** featuring three distinct color variants:
+**Repository**: [https://github.com/redo7370/darkercolo   - "Super Dark Cyberpunk Green" 🟢
+   - "Glowing Yellow" 🟡  
+   - "Glowing Purple" 🟣
+
+## 💡 Suggestions & Improvements
+
+We welcome **suggestions for improvements** and **feature requests**! 
+
+To provide feedback or suggest enhancements:
+1. Visit our repository: [https://github.com/redo7370/darkercolors.git](https://github.com/redo7370/darkercolors.git)
+2. **Create an issue** with your suggestion or improvement idea
+3. Please include details about:
+   - What you'd like to see improved
+   - Which theme(s) it affects
+   - Any specific use cases or examples
+
+Your feedback helps make these themes better for everyone! 🚀
+
+## 🔮 Future Planst](https://github.com/redo7370/darkercolors.git)
+
+A collection of **neon dark themes** featuring three distinct color variants:
 
 - � **Super Dark Cyberpunk Green** - Matrix-inspired emerald neon with deep forest backgrounds
 - 🟡 **Glowing Yellow** - Golden cyberpunk glow with warm amber accents  
@@ -104,3 +124,28 @@ All themes are currently optimized for:
 - **Full Java language support**: Comprehensive semantic highlighting
 - **Hierarchical UI system**: Graduated darkness levels for better organization
 - **Color-tinted backgrounds**: Theme-specific background tones for visual consistency
+
+## 📄 License
+
+**© 2025 Jim Feser. All rights reserved.**
+
+This software is licensed under a **collaborative proprietary license**. 
+
+**✅ PERMITTED:**
+- ✅ **Personal use** for non-commercial purposes
+- ✅ **Forking** for improvements and contributions
+- ✅ **Pull requests** with bug fixes and new features
+- ✅ **Collaboration** and community contributions
+- ✅ **Study and learning** from the source code
+
+**⚠️ RESTRICTIONS:**
+- ❌ **NO commercial use or selling** of the software
+- ❌ **NO distribution as your own work** or claiming ownership
+- ❌ **NO standalone redistribution** as independent packages
+- ❌ **NO trademark/branding misuse** without permission
+
+**🤝 Contribution Friendly:** Fork, improve, and submit pull requests to help make these themes better!
+
+For complete license terms, see the [LICENSE](LICENSE) file.
+
+For licensing inquiries or permission requests, please contact Jim Feser through the official repository.
