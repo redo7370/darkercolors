@@ -1,76 +1,106 @@
-# Super Dark Colors
+# DarkerColors
 
-A **neon dark color theme** for Visual Studio Code that brings cyberpunk aesthetics to your coding environment.
+A collection of **neon dark cyberpunk themes** featuring three distinct color variants:
+
+- � **Super Dark Cyberpunk Green** - Matrix-inspired emerald neon with deep forest backgrounds
+- 🟡 **Glowing Yellow** - Golden cyberpunk glow with warm amber accents  
+- � **Glowing Purple** - Mystical violet neon with deep space backgrounds
+
+All themes feature:
 
 ## 🎨 Theme Overview
 
-This theme features a deep, almost-black editor background with vibrant neon purple outlines and carefully crafted syntax highlighting. Currently available in **Purple**, with more neon color variants planned for future releases.
+This collection features deep, almost-black editor backgrounds with vibrant neon outlines and carefully crafted syntax highlighting. All three themes now have **consistent brightness levels** and **professional color balance** for optimal visual harmony across different color preferences.
 
 ## ✨ Features
 
-- **Ultra-dark background** - Almost black (`#0a0510`) for comfortable extended coding sessions
-- **Neon UI outlines** - Glowing borders throughout the interface
-- **Graduated darkness system** - Hierarchical UI element shading for better visual organization
-- **Color theory optimized** - Balanced complementary colors for reduced eye strain
-- **Comprehensive semantic highlighting** - Enhanced syntax colors for better code readability
+- **Ultra-dark backgrounds** - Color-tinted blacks with **matched brightness levels** across all themes
+- **Neon UI outlines** - Theme-specific glowing borders with **consistent intensity**
+- **Graduated darkness system** - Hierarchical UI element shading with **uniform contrast ratios**
+- **Professional color theory** - Complementary color schemes with **scientifically balanced brightness**
+- **Multi-theme system** - Three distinct neon variants with **identical darkness levels**
+- **Comprehensive semantic highlighting** - Enhanced syntax colors optimized for each theme
+
+## 🎨 Color Theory & Design
+
+Each theme applies professional color theory principles with **scientifically matched brightness levels**:
+
+- **Complementary Color Schemes**: Each primary color uses its complement for special highlights
+- **Hierarchical Visual Organization**: Background darkness levels create depth and focus  
+- **Optimal Contrast Ratios**: Carefully balanced for readability and accessibility
+- **Semantic Color Coding**: Consistent color meanings across all syntax elements
+- **Brightness Consistency**: All themes use equivalent luminosity values for uniform visual weight
+
+## 🌈 Theme Variants
+
+### � Super Dark Cyberpunk Green
+- **Primary**: Emerald green (`#66ff66`) with matrix-inspired accents
+- **Backgrounds**: Deep forest blacks with green undertones (`#050a05`, `#060d06`, `#081108`)
+- **Highlights**: Complementary orange for special elements
+- **Mood**: Matrix terminal, nature-tech fusion, cyberpunk forest
+
+### 🟡 Glowing Yellow  
+- **Primary**: Balanced golden yellow (`#cccc00`) with amber tones
+- **Backgrounds**: Warm dark browns with golden undertones (`#0a0a05`, `#0d0d06`, `#111108`)
+- **Highlights**: Complementary blue for contrast elements
+- **Mood**: Energetic, cyberpunk, high-tech warmth
+
+### � Glowing Purple
+- **Primary**: Neon violet (`#bb66ff`) with mystical accents
+- **Backgrounds**: Deep space blacks with purple undertones (`#0a0510`, `#0d0614`, `#110817`)
+- **Highlights**: Complementary orange for special elements
+- **Mood**: Mystical, futuristic, cosmic depth
 
 ## 🚀 Language Support
 
-Currently optimized for:
+All themes are currently optimized for:
 - **Java** ☕ - Full syntax highlighting and semantic token support
 
 *More languages will be added in future updates!*
-
-## 🎯 Color Palette
-
-### Core Colors
-- **Background**: Almost black with purple undertones
-- **UI Outlines**: Glowing purple (`#bb66ff`)
-- **Syntax Colors**:
-  - Classes/Types: Warm orange (`#f59e0b`)
-  - Functions/Methods: Cool blue (`#3b82f6` / `#60a5fa`)
-  - Variables: Soft white (`#e5e7eb`)
-  - Properties: Balanced red (`#ef4444`)
-  - Strings: Natural green (`#22c55e`)
-  - Numbers: Soft cyan (`#06b6d4`)
-  - Comments: Neutral gray (`#6b7280`)
-  - Brackets: Bright purple (`#c084fc`)
 
 ## 📦 Installation
 
 1. Open Visual Studio Code
 2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for "Super Dark Cyberpunk Purple"
+3. Search for "Super Dark Colors" 
 4. Click Install
 5. Go to Settings (`Ctrl+,` / `Cmd+,`)
 6. Search for "Color Theme"
-7. Select "Super Dark Cyberpunk Purple"
+7. Select your preferred variant:
+   - "Super Dark Cyberpunk Green" �
+   - "Glowing Yellow" 🟡  
+   - "Glowing Purple" �
 
 ## 🔮 Future Plans
 
-- **More neon colors**: Blue, Green, Pink, Orange variants coming soon
-- **Extended language support**: Python, C++, and more
+- **More neon colors**: Blue, Pink, Orange, Cyan variants
+- **Extended language support**: Python, TypeScript, C++, and more
+- **Theme customization options**: Brightness levels, accent variations
 
 ## 🎮 Perfect For
 
-- Cyberpunk enthusiasts
-- Late-night coding sessions
-- Developers who love neon aesthetics
+- Cyberpunk and neon aesthetic enthusiasts
+- Late-night coding sessions (color-tinted dark backgrounds reduce eye strain)
+- Developers who want unique, professional themes with proper color theory
 - Java developers seeking optimal syntax highlighting
-- Anyone wanting a unique, eye-friendly dark theme
-
-## 📸 Screenshots
-
-*Screenshots coming soon!*
-
-## 🐛 Issues & Feedback
-
-Found a bug or have a suggestion? Please open an issue on our [GitHub repository](https://github.com/your-username/darkerpurple).
+- Anyone wanting multiple coordinated theme options
+- Teams needing consistent visual standards across different color preferences
 
 ## 📝 Changelog
 
+### v1.1.0 - Brightness Balance Update
+- **🎨 Color Theory Enhancement**: Scientifically balanced brightness levels across all three themes
+- **🟢 Green Theme Conversion**: Converted purple theme to matrix-inspired green (`#66ff66` accents)
+- **🟡 Yellow Theme Optimization**: Adjusted brightness from `#ffd700` to `#cccc00` for visual harmony
+- **🌈 Background Consistency**: Matched darkness levels across all theme variants
+  - Green: `#050a05`, `#060d06`, `#081108`
+  - Yellow: `#0a0a05`, `#0d0d06`, `#111108`  
+  - Purple: `#0a0510`, `#0d0614`, `#110817`
+- **✨ Enhanced User Experience**: Consistent visual weight and contrast ratios
+
 ### v1.0.0
-- Initial release with Purple neon theme
-- Full Java language support
-- Comprehensive UI outlining system
-- Color theory optimized palette
+- **Three complete neon themes**: Purple, Yellow, and Green variants
+- **Professional color theory**: Complementary schemes and optimal contrast ratios
+- **Full Java language support**: Comprehensive semantic highlighting
+- **Hierarchical UI system**: Graduated darkness levels for better organization
+- **Color-tinted backgrounds**: Theme-specific background tones for visual consistency
