@@ -4,6 +4,7 @@
   "description": "Dark colored theme with semantic highlighting and TextMate fallback for variables",
   "version": "1.1.0",
   "author": "Jim Feser",
+  "publisher": "JFeser",
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
