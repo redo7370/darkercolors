@@ -1,0 +1,21 @@
+{
+  "name": "darkercolor",
+  "displayName": "darkercolor",
+  "description": "Dark colored theme with semantic highlighting and TextMate fallback for variables",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darkerpurple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkerpurple-color-theme.json"
+      }
+    ]
+  }
+}

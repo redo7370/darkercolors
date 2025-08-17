@@ -1,0 +1,6 @@
+{
+  "editor.semanticHighlighting.enabled": true,
+  "[java]": {
+    "editor.semanticHighlighting.enabled": true
+  }
+}
