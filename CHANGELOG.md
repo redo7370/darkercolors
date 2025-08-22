@@ -5,6 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v2.0.0] - 2025-08-22
+
+### Added
+- **Comprehensive Markdown Support**: Full syntax highlighting for all Markdown elements
+  - Headers with theme-specific glowing colors
+  - Bold, italic, and strikethrough text formatting
+  - Inline code and fenced code blocks with language identification
+  - Links, lists, blockquotes, and horizontal rules
+  - Table formatting and HTML tag support
+- **Enhanced C++ Language Support**: Complete syntax highlighting for modern C++
+  - Template parameters and generic types
+  - Access modifiers and storage classes
+  - Namespace and scope resolution
+  - Lambda expressions and modern language features
+- **Improved Java Support**: Enhanced semantic token colors for Java development
+- **Updated Documentation**: README now reflects comprehensive language support
+
+### Enhanced
+- **Theme Consistency**: All three themes (Green, Purple, Yellow) now have identical language support
+- **Syntax Highlighting**: Improved color coordination between themes for better readability
+
 ## [v1.1.1] - 2025-01-17
 
 ### Added

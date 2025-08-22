@@ -72,8 +72,11 @@ Each theme applies professional color theory principles with **scientifically ma
 
 ## Language Support
 
-All themes are currently optimized for:
-- **Java** ☕ - Full syntax highlighting and semantic token support
+All themes are optimized for multiple programming languages and document formats:
+
+- **Java** - Full syntax highlighting and semantic token support
+- **C++** - Complete language support with modern C++ features
+- **Markdown** 
 
 *More languages will be added in future updates!*
 
@@ -90,22 +93,23 @@ All themes are currently optimized for:
    - "Glowing Yellow"  
    - "Glowing Purple"
 
-## 🔮 Future Plans
+## Future Plans
 
 - **More neon colors**: Blue, Pink, Orange, Cyan variants
-- **Extended language support**: Python, TypeScript, C++, and more
+- **Extended language support**: Python, TypeScript, Rust, and more
 - **Theme customization options**: Brightness levels, accent variations
 
-## 🎮 Perfect For
+## Perfect For
 
 - Cyberpunk and neon aesthetic enthusiasts
 - Late-night coding sessions (color-tinted dark backgrounds reduce eye strain)
 - Developers who want unique, professional themes with proper color theory
-- Java developers seeking optimal syntax highlighting
+- Java, C++, and Markdown developers seeking optimal syntax highlighting
+- Documentation writers and technical writers using Markdown
 - Anyone wanting multiple coordinated theme options
 - Teams needing consistent visual standards across different color preferences
 
-## 📝 Changelog
+## Changelog
 
 For detailed release notes and version history, see [CHANGELOG.md](CHANGELOG.md).
 
