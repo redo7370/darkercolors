@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v2.1.0] - 2025-09-13
+
+### Added
+- **New Grey Color Theme**: Fourth theme variant with sophisticated grey aesthetic
+  - Complete port of purple theme structure with systematic color replacement
+  - Maintains cyberpunk feel with neutral grey accent (`#909090`)
+  - Professional appearance for users preferring non-colored themes
+  - Full language support for Java, C++, and Markdown
+  - Consistent graduated darkness system with grey-tinted backgrounds
+
+### Enhanced
+- **Theme Collection**: Now offers four coordinated theme options (Green, Purple, Yellow, Grey)
+- **Color Variety**: Expanded palette to accommodate different user preferences
+- **Professional Options**: Added neutral theme for corporate/professional environments
+
 ## [v2.0.0] - 2025-08-22
 
 ### Added

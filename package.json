@@ -2,7 +2,7 @@
   "name": "darkercolor",
   "displayName": "darkercolor",
   "description": "Dark colored theme with semantic highlighting and TextMate fallback for variables",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "author": "Jim Feser",
   "publisher": "JFeser",
   "license": "SEE LICENSE IN LICENSE",
@@ -32,6 +32,11 @@
         "label": "Glowing Green",
         "uiTheme": "vs-dark",
         "path": "./themes/darkergreen-color-theme.json"
+      },
+      {
+        "label": "Glowing Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkergrey-color-theme.json"
       }
     ]
   }
